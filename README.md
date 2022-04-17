@@ -7,8 +7,9 @@
     
  ![Snake animation](https://github.com/driguin/driguin/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+###     -
 <body>
-##
   
 - 🔭 Atualmente trabalho como Assistente de Cadastro no Hapvida
 - 🔎 À procura de oportunidades na area de tecnologia e desenvolvimento para aprimorar meus conhecimentos.
@@ -22,7 +23,7 @@
 
 - 😄 Pronouns: ele/dele
 </body>
-  ### 
+ 
   
 </div>
 <div style="display: inline_block"><br>
@@ -31,7 +32,8 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-###  
+
+### -
 
 <div> 
   
