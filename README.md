@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=driguin&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driguin&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driguin&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driguin&layout=compact&langs_count=5&theme=ocean_dark"/>
     
  ![Snake animation](https://github.com/driguin/driguin/blob/output/github-contribution-grid-snake.svg)
 </div>
