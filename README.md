@@ -12,7 +12,7 @@
   
   <body>
   
-- 🔭 Atualmente trabalho como Assistente de Cadastro no Hapvida
+- 🔭 Atualmente trabalho como Assistente de Backoffice na SIMgular Consultoria.
 - 🔎 À procura de oportunidades na area de tecnologia e desenvolvimento para aprimorar meus conhecimentos.
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Conhecimento Basico em:
